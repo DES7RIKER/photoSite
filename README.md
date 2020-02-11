@@ -1,2 +1,0 @@
-# photoSite
-Created with CodeSandbox
